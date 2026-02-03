@@ -1,9 +1,8 @@
 .container{
     border-radius: 20px;
-    height: 600px;
+    width: 100%;
     background-color: rgb(49, 48, 49);
     border: 2px solid rgb(175, 174, 174);
-    margin: 100px;
     flex-wrap: wrap;
     display: flex;
     justify-content: center;
@@ -18,7 +17,6 @@
     border:3px solid rgb(179, 177, 177);
     border-radius: 10px;
     overflow: hidden;
-    margin: 38px 0px 0px 0px;
 }
 .card1{
     background-color:rgb(186, 249, 124) ;
